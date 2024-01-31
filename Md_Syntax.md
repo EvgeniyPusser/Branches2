@@ -15,3 +15,4 @@
 <span style="color: violet">
 А сюда можно поместить требуемый текст</span>
 
+<span style="color: #c5f015">А можно и так</span>
